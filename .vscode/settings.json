@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*html": "html",
+        "iostream": "cpp",
+        "deque": "cpp",
+        "thread": "cpp",
+        "list": "cpp"
+    }
+}
